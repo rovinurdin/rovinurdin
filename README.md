@@ -19,8 +19,8 @@
 #### 1. Local Bussines, Owner [Ophicoffee](https://www.instagram.com/ophicoffee) | cafe & roster shop | Temanggung `july'2017 - Now`
 #### 2. Freelance Web Developer
    - Web Toko [ATK Sahabat Pena](https://instagram.com/tokoatksahabatpena) |Wonosobo| sept'2023
-   - 
-   - 
+   - Web Kedai Kopi [ophicoffee](https://instagram.com/ophicoffee) |Temanggung | Jul'2023
+   - Website Undangan Digital [on progres]
 ---
 ### Connect with me:
 [webdev]: https://github.com/rovinurdin/rovinurdin
